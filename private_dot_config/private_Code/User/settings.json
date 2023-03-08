@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.inlineSuggest.enabled": true,
+    "workbench.editor.historyBasedLanguageDetection": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.renderWhitespace": "boundary",
+    "autoDocstring.docstringFormat": "sphinx",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.inheritEnv": false,
+    "todo-tree.filtering.excludeGlobs": [
+        "**/node_modules",
+        "**/__pycache__",
+        "**/*.pyc"
+    ],
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true
+    },
+    "python.defaultInterpreterPath": "/home/nicolas.vieira/miniconda3/bin/python",
+    "window.zoomLevel": 1,
+    "git.confirmSync": false,
+    "git.openRepositoryInParentFolders": "never",
+    "[python]": {
+        "editor.formatOnType": true
+    }
+}
